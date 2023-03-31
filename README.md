@@ -1,5 +1,7 @@
 # A Scalable Approach for Analysing Multi-Agent Systems with Heterogeneous Stochastic Packet Loss
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7787750.svg)](https://doi.org/10.5281/zenodo.7787750)
+
 ## General
 
 This repository contains an implementation of the algorithms and simulations described in the paper
