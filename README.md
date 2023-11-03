@@ -6,7 +6,7 @@
 
 This repository contains an implementation of the algorithms and simulations described in the paper
 
-> C. Hespe and H. Werner, "A Scalable Approach for Analysing Multi-Agent Systems with Heterogeneous Stochastic Packet Loss," submitted to *62nd Conference on Decision and Control*. IEEE, 2023.
+> C. Hespe and H. Werner, "A Scalable Approach for Analysing Multi-Agent Systems with Heterogeneous Stochastic Packet Loss," *62nd Conference on Decision and Control*. IEEE, 2023.
 
 It may be used to recreate and validate the figures from the paper.
 To do so, run either of the two main entry points in the repository, the scripts `scalability.m`, and `uncertainty_sweep.m`.
